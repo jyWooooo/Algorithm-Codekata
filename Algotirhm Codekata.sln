@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algotirhm Codekata", "Algotirhm Codekata\Algotirhm Codekata.csproj", "{7916D5C1-88D1-4D35-977C-6F18C695B9D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. 짝수와 홀수", "Algotirhm Codekata\1. 짝수와 홀수.csproj", "{7916D5C1-88D1-4D35-977C-6F18C695B9D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. 평균 구하기", "Algorithm Codekata\2. 평균 구하기.csproj", "{BE17D57F-59C7-43BA-AD47-53141EA601D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7916D5C1-88D1-4D35-977C-6F18C695B9D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7916D5C1-88D1-4D35-977C-6F18C695B9D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7916D5C1-88D1-4D35-977C-6F18C695B9D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE17D57F-59C7-43BA-AD47-53141EA601D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE17D57F-59C7-43BA-AD47-53141EA601D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE17D57F-59C7-43BA-AD47-53141EA601D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE17D57F-59C7-43BA-AD47-53141EA601D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
