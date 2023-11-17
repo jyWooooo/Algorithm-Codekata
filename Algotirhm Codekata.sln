@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. 짝수와 홀수", "Algo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. 평균 구하기", "Algorithm Codekata\2. 평균 구하기.csproj", "{BE17D57F-59C7-43BA-AD47-53141EA601D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. 자릿수 더하기", "3. 자릿수 더하기\3. 자릿수 더하기.csproj", "{7423ECC7-C0DB-49B2-BC5F-F68F5ABE7E12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. 약수의 합", "4. 약수의 합\4. 약수의 합.csproj", "{0E1D36E0-C366-47FD-98F4-59B5328DAF39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. 나머지가 1이 되는 수 찾기", "5. 나머지가 1이 되는 수 찾기\5. 나머지가 1이 되는 수 찾기.csproj", "{9665C046-6650-41D6-ABDE-F5D1B5E70E5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +27,18 @@ Global
 		{BE17D57F-59C7-43BA-AD47-53141EA601D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE17D57F-59C7-43BA-AD47-53141EA601D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE17D57F-59C7-43BA-AD47-53141EA601D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7423ECC7-C0DB-49B2-BC5F-F68F5ABE7E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7423ECC7-C0DB-49B2-BC5F-F68F5ABE7E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7423ECC7-C0DB-49B2-BC5F-F68F5ABE7E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7423ECC7-C0DB-49B2-BC5F-F68F5ABE7E12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E1D36E0-C366-47FD-98F4-59B5328DAF39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1D36E0-C366-47FD-98F4-59B5328DAF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1D36E0-C366-47FD-98F4-59B5328DAF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1D36E0-C366-47FD-98F4-59B5328DAF39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9665C046-6650-41D6-ABDE-F5D1B5E70E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9665C046-6650-41D6-ABDE-F5D1B5E70E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9665C046-6650-41D6-ABDE-F5D1B5E70E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9665C046-6650-41D6-ABDE-F5D1B5E70E5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
