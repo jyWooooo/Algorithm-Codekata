@@ -15,29 +15,37 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15. 나머지가 1이 되�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. 두 수의 차", "1. 두 수의 차\1. 두 수의 차.csproj", "{0A00BBFE-8094-4B48-B0EA-1337C7DC4091}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. 두 수의 곱", "2. 두 수의 곱\2. 두 수의 곱.csproj", "{89E7EFD1-57E7-4EF8-98DB-559AF98CA497}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. 두 수의 곱", "2. 두 수의 곱\2. 두 수의 곱.csproj", "{89E7EFD1-57E7-4EF8-98DB-559AF98CA497}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. 몫 구하기", "3. 몫 구하기\3. 몫 구하기.csproj", "{40CB95AA-DA13-451A-970F-72E013BBD2BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. 몫 구하기", "3. 몫 구하기\3. 몫 구하기.csproj", "{40CB95AA-DA13-451A-970F-72E013BBD2BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. 나이 출력", "4. 나이 출력\4. 나이 출력.csproj", "{7CA049C7-865C-437F-B689-B149DBB1EA72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. 나이 출력", "4. 나이 출력\4. 나이 출력.csproj", "{7CA049C7-865C-437F-B689-B149DBB1EA72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. 숫자 비교하기", "5. 숫자 비교하기\5. 숫자 비교하기.csproj", "{0A02C883-3742-4FC5-98C3-0351C5E56A7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. 숫자 비교하기", "5. 숫자 비교하기\5. 숫자 비교하기.csproj", "{0A02C883-3742-4FC5-98C3-0351C5E56A7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. 두 수의 합", "6. 두 수의 합\6. 두 수의 합.csproj", "{9801F2B4-2154-4B50-A1D7-2624BBED07CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. 두 수의 합", "6. 두 수의 합\6. 두 수의 합.csproj", "{9801F2B4-2154-4B50-A1D7-2624BBED07CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. 두 수의 나눗셈", "7. 두 수의 나눗셈\7. 두 수의 나눗셈.csproj", "{D5161173-15EC-41CA-A3E7-13980895F4BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. 두 수의 나눗셈", "7. 두 수의 나눗셈\7. 두 수의 나눗셈.csproj", "{D5161173-15EC-41CA-A3E7-13980895F4BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. 각도기", "8. 각도기\8. 각도기.csproj", "{EE52AEFB-ED4B-48C0-880C-15F20B68DC8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8. 각도기", "8. 각도기\8. 각도기.csproj", "{EE52AEFB-ED4B-48C0-880C-15F20B68DC8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. 짝수의 합", "9. 짝수의 합\9. 짝수의 합.csproj", "{8395C819-6BAF-4009-B7DA-A6B15BD9EAF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9. 짝수의 합", "9. 짝수의 합\9. 짝수의 합.csproj", "{8395C819-6BAF-4009-B7DA-A6B15BD9EAF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. 배열의 평균", "10. 배열의 평균\10. 배열의 평균.csproj", "{C264205F-7B45-4F08-BC8F-33580008225B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. 배열의 평균", "10. 배열의 평균\10. 배열의 평균.csproj", "{C264205F-7B45-4F08-BC8F-33580008225B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16. x만큼 간격이 있는 n개의 숫자", "16. x만큼 간격이 있는 n개의 숫자\16. x만큼 간격이 있는 n개의 숫자.csproj", "{910B8B68-00C8-418D-9E44-ABCBC52B547F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16. x만큼 간격이 있는 n개의 숫자", "16. x만큼 간격이 있는 n개의 숫자\16. x만큼 간격이 있는 n개의 숫자.csproj", "{910B8B68-00C8-418D-9E44-ABCBC52B547F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17. 자연수 뒤집어 배열로 만들기", "17. 자연수 뒤집어 배열로 만들기\17. 자연수 뒤집어 배열로 만들기.csproj", "{283D8F15-D3B5-4F0B-B2C9-9EBD5D3604DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17. 자연수 뒤집어 배열로 만들기", "17. 자연수 뒤집어 배열로 만들기\17. 자연수 뒤집어 배열로 만들기.csproj", "{283D8F15-D3B5-4F0B-B2C9-9EBD5D3604DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18. 문자열을 정수로 바꾸기", "18. 문자열을 정수로 바꾸기\18. 문자열을 정수로 바꾸기.csproj", "{CD144752-F391-4B53-A50D-0A6803723A0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18. 문자열을 정수로 바꾸기", "18. 문자열을 정수로 바꾸기\18. 문자열을 정수로 바꾸기.csproj", "{CD144752-F391-4B53-A50D-0A6803723A0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19. 정수 제곱근 판별", "19. 정수 제곱근 판별\19. 정수 제곱근 판별.csproj", "{0BFF3800-ADF3-4EAA-8E75-78037CB63118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20. 정수 내림차순으로 배치하기", "20. 정수 내림차순으로 배치하기\20. 정수 내림차순으로 배치하기.csproj", "{E401353C-049D-4285-B5EA-C3502E83C790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21. 하샤드 수", "21. 하샤드 수\21. 하샤드 수.csproj", "{E3DCFD32-0822-4FB3-A4B7-09918A5B6488}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22. 두 정수 사이의 합", "22. 두 정수 사이의 합\22. 두 정수 사이의 합.csproj", "{79AAF5DC-D3EE-4B74-A5C8-E4972AB9927E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +125,22 @@ Global
 		{CD144752-F391-4B53-A50D-0A6803723A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD144752-F391-4B53-A50D-0A6803723A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD144752-F391-4B53-A50D-0A6803723A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BFF3800-ADF3-4EAA-8E75-78037CB63118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFF3800-ADF3-4EAA-8E75-78037CB63118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFF3800-ADF3-4EAA-8E75-78037CB63118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFF3800-ADF3-4EAA-8E75-78037CB63118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E401353C-049D-4285-B5EA-C3502E83C790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E401353C-049D-4285-B5EA-C3502E83C790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E401353C-049D-4285-B5EA-C3502E83C790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E401353C-049D-4285-B5EA-C3502E83C790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3DCFD32-0822-4FB3-A4B7-09918A5B6488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3DCFD32-0822-4FB3-A4B7-09918A5B6488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3DCFD32-0822-4FB3-A4B7-09918A5B6488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3DCFD32-0822-4FB3-A4B7-09918A5B6488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79AAF5DC-D3EE-4B74-A5C8-E4972AB9927E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79AAF5DC-D3EE-4B74-A5C8-E4972AB9927E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79AAF5DC-D3EE-4B74-A5C8-E4972AB9927E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79AAF5DC-D3EE-4B74-A5C8-E4972AB9927E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
