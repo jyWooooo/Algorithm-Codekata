@@ -1,6 +1,4 @@
-﻿using System.Net.Sockets;
-
-public class Solution
+﻿public class Solution
 {
     public int solution(int num)
     {
