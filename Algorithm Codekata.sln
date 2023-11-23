@@ -47,13 +47,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21. 하샤드 수", "21. �
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22. 두 정수 사이의 합", "22. 두 정수 사이의 합\22. 두 정수 사이의 합.csproj", "{79AAF5DC-D3EE-4B74-A5C8-E4972AB9927E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23. 콜라츠 추측", "23. 콜라츠 추측\23. 콜라츠 추측.csproj", "{39701DBF-2DE0-4B20-889C-903D638A0BD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23. 콜라츠 추측", "23. 콜라츠 추측\23. 콜라츠 추측.csproj", "{39701DBF-2DE0-4B20-889C-903D638A0BD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24. 서울에서 김서방 찾기", "24. 서울에서 김서방 찾기\24. 서울에서 김서방 찾기.csproj", "{EF9EBD28-E2B2-468D-B3A6-CD0C55431675}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24. 서울에서 김서방 찾기", "24. 서울에서 김서방 찾기\24. 서울에서 김서방 찾기.csproj", "{EF9EBD28-E2B2-468D-B3A6-CD0C55431675}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25. 나누어 떨어지는 숫자 배열", "25. 나누어 떨어지는 숫자 배열\25. 나누어 떨어지는 숫자 배열.csproj", "{CCE840BF-0F37-43A7-A4E9-2CB2A58A759F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25. 나누어 떨어지는 숫자 배열", "25. 나누어 떨어지는 숫자 배열\25. 나누어 떨어지는 숫자 배열.csproj", "{CCE840BF-0F37-43A7-A4E9-2CB2A58A759F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26. 음양 더하기", "26. 음양 더하기\26. 음양 더하기.csproj", "{81C0E764-AEE9-482A-A415-4DD26B1FF124}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26. 음양 더하기", "26. 음양 더하기\26. 음양 더하기.csproj", "{81C0E764-AEE9-482A-A415-4DD26B1FF124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27. 핸드폰 번호 가리기", "27. 핸드폰 번호 가리기\27. 핸드폰 번호 가리기.csproj", "{52BA42E8-6672-40EC-BB63-146E863C8DE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28. 없는 숫자 더하기", "28. 없는 숫자 더하기\28. 없는 숫자 더하기.csproj", "{B6BC9A97-A099-4A3D-9CD2-8233F1DA32D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29. 제일 작은 수 제거하기", "29. 제일 작은 수 제거하기\29. 제일 작은 수 제거하기.csproj", "{97B0C7C1-209D-46F6-A35C-628AEF6F221B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30. 가운데 글자 가져오기", "30. 가운데 글자 가져오기\30. 가운데 글자 가져오기.csproj", "{3A1DF683-08C7-406B-9F15-AAE7D526DA16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +173,22 @@ Global
 		{81C0E764-AEE9-482A-A415-4DD26B1FF124}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81C0E764-AEE9-482A-A415-4DD26B1FF124}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81C0E764-AEE9-482A-A415-4DD26B1FF124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52BA42E8-6672-40EC-BB63-146E863C8DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52BA42E8-6672-40EC-BB63-146E863C8DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52BA42E8-6672-40EC-BB63-146E863C8DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52BA42E8-6672-40EC-BB63-146E863C8DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6BC9A97-A099-4A3D-9CD2-8233F1DA32D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6BC9A97-A099-4A3D-9CD2-8233F1DA32D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6BC9A97-A099-4A3D-9CD2-8233F1DA32D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6BC9A97-A099-4A3D-9CD2-8233F1DA32D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B0C7C1-209D-46F6-A35C-628AEF6F221B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B0C7C1-209D-46F6-A35C-628AEF6F221B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B0C7C1-209D-46F6-A35C-628AEF6F221B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B0C7C1-209D-46F6-A35C-628AEF6F221B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A1DF683-08C7-406B-9F15-AAE7D526DA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A1DF683-08C7-406B-9F15-AAE7D526DA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A1DF683-08C7-406B-9F15-AAE7D526DA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A1DF683-08C7-406B-9F15-AAE7D526DA16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
