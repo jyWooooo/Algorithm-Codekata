@@ -55,13 +55,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25. 나누어 떨어지는 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26. 음양 더하기", "26. 음양 더하기\26. 음양 더하기.csproj", "{81C0E764-AEE9-482A-A415-4DD26B1FF124}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27. 핸드폰 번호 가리기", "27. 핸드폰 번호 가리기\27. 핸드폰 번호 가리기.csproj", "{52BA42E8-6672-40EC-BB63-146E863C8DE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27. 핸드폰 번호 가리기", "27. 핸드폰 번호 가리기\27. 핸드폰 번호 가리기.csproj", "{52BA42E8-6672-40EC-BB63-146E863C8DE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28. 없는 숫자 더하기", "28. 없는 숫자 더하기\28. 없는 숫자 더하기.csproj", "{B6BC9A97-A099-4A3D-9CD2-8233F1DA32D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28. 없는 숫자 더하기", "28. 없는 숫자 더하기\28. 없는 숫자 더하기.csproj", "{B6BC9A97-A099-4A3D-9CD2-8233F1DA32D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29. 제일 작은 수 제거하기", "29. 제일 작은 수 제거하기\29. 제일 작은 수 제거하기.csproj", "{97B0C7C1-209D-46F6-A35C-628AEF6F221B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "29. 제일 작은 수 제거하기", "29. 제일 작은 수 제거하기\29. 제일 작은 수 제거하기.csproj", "{97B0C7C1-209D-46F6-A35C-628AEF6F221B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30. 가운데 글자 가져오기", "30. 가운데 글자 가져오기\30. 가운데 글자 가져오기.csproj", "{3A1DF683-08C7-406B-9F15-AAE7D526DA16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30. 가운데 글자 가져오기", "30. 가운데 글자 가져오기\30. 가운데 글자 가져오기.csproj", "{3A1DF683-08C7-406B-9F15-AAE7D526DA16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33. 약수의 개수와 덧셈", "33. 약수의 개수와 덧셈\33. 약수의 개수와 덧셈.csproj", "{5AFFCFD5-DE11-42B4-A1BA-C91BCEABB35C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34. 문자열 내림차순으로 배치하기", "34. 문자열 내림차순으로 배치하기\34. 문자열 내림차순으로 배치하기.csproj", "{FAC76B8B-F9F9-4664-9853-F3CF1308B65E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35. 부족한 금액 계산하기", "35. 부족한 금액 계산하기\35. 부족한 금액 계산하기.csproj", "{9F8308AA-9DEA-406D-B871-145CCD70E534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36. 문자열 다루기 기본", "36. 문자열 다루기 기본\36. 문자열 다루기 기본.csproj", "{8073104E-D6A0-4FAE-BC54-D3B65A72ED21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +197,22 @@ Global
 		{3A1DF683-08C7-406B-9F15-AAE7D526DA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A1DF683-08C7-406B-9F15-AAE7D526DA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A1DF683-08C7-406B-9F15-AAE7D526DA16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AFFCFD5-DE11-42B4-A1BA-C91BCEABB35C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AFFCFD5-DE11-42B4-A1BA-C91BCEABB35C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AFFCFD5-DE11-42B4-A1BA-C91BCEABB35C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AFFCFD5-DE11-42B4-A1BA-C91BCEABB35C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC76B8B-F9F9-4664-9853-F3CF1308B65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC76B8B-F9F9-4664-9853-F3CF1308B65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC76B8B-F9F9-4664-9853-F3CF1308B65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC76B8B-F9F9-4664-9853-F3CF1308B65E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F8308AA-9DEA-406D-B871-145CCD70E534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F8308AA-9DEA-406D-B871-145CCD70E534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F8308AA-9DEA-406D-B871-145CCD70E534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F8308AA-9DEA-406D-B871-145CCD70E534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8073104E-D6A0-4FAE-BC54-D3B65A72ED21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8073104E-D6A0-4FAE-BC54-D3B65A72ED21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8073104E-D6A0-4FAE-BC54-D3B65A72ED21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8073104E-D6A0-4FAE-BC54-D3B65A72ED21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
