@@ -77,7 +77,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "38. 직사각형 별 찍기
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "39. 최대공약수와 최소공배수", "39. 최대공약수와 최소공배수\39. 최대공약수와 최소공배수.csproj", "{773DAECB-6C5D-4BE2-9C9A-7715B04B4546}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40. 3진법 뒤집기", "40. 3진법 뒤집기\40. 3진법 뒤집기.csproj", "{52328108-0ACD-4CC7-BDB9-369815DAB2DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "40. 3진법 뒤집기", "40. 3진법 뒤집기\40. 3진법 뒤집기.csproj", "{52328108-0ACD-4CC7-BDB9-369815DAB2DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41. 이상한 문자열 만들기", "41. 이상한 문자열 만들기\41. 이상한 문자열 만들기.csproj", "{8150B39E-6538-4695-8981-C641A54895EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42. 삼총사", "42. 삼총사\42. 삼총사.csproj", "{12DAE891-80AC-4C6A-95B5-89C6C27E499F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "44. 최소 직사각형", "44. 최소 직사각형\44. 최소 직사각형.csproj", "{36E8A30C-79E7-4349-B74E-C7A10FC22B59}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "43. 크기가 작은 부분 문자열", "43. 크기가 작은 부분 문자열\43. 크기가 작은 부분 문자열.csproj", "{96D317B9-5EF6-4522-A56D-DF4171DB3308}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -237,6 +245,22 @@ Global
 		{52328108-0ACD-4CC7-BDB9-369815DAB2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52328108-0ACD-4CC7-BDB9-369815DAB2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52328108-0ACD-4CC7-BDB9-369815DAB2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8150B39E-6538-4695-8981-C641A54895EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8150B39E-6538-4695-8981-C641A54895EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8150B39E-6538-4695-8981-C641A54895EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8150B39E-6538-4695-8981-C641A54895EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12DAE891-80AC-4C6A-95B5-89C6C27E499F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12DAE891-80AC-4C6A-95B5-89C6C27E499F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12DAE891-80AC-4C6A-95B5-89C6C27E499F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12DAE891-80AC-4C6A-95B5-89C6C27E499F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E8A30C-79E7-4349-B74E-C7A10FC22B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E8A30C-79E7-4349-B74E-C7A10FC22B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E8A30C-79E7-4349-B74E-C7A10FC22B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E8A30C-79E7-4349-B74E-C7A10FC22B59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96D317B9-5EF6-4522-A56D-DF4171DB3308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D317B9-5EF6-4522-A56D-DF4171DB3308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D317B9-5EF6-4522-A56D-DF4171DB3308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D317B9-5EF6-4522-A56D-DF4171DB3308}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
