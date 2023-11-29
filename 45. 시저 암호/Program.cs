@@ -8,12 +8,12 @@
         {
             if (char.IsLower(s[i]))
             {
-                char c = (char)(s[i] + n > 'z' ? s[i] + n - 'z' + 'a' : s[i] + n);
+                char c = (char)(s[i] + n > 'z' ? s[i] + n - 'z' + 'a' - 1 : s[i] + n);
                 answer += c;
             }
             else if (char.IsUpper(s[i]))
             {
-                char c = (char)(s[i] + n > 'Z' ? s[i] + n - 'Z' + 'A' : s[i] + n);
+                char c = (char)(s[i] + n > 'Z' ? s[i] + n - 'Z' + 'A' - 1 : s[i] + n);
                 answer += c;
             }
             else answer += s[i];
