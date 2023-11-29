@@ -79,13 +79,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "39. 최대공약수와 최�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "40. 3진법 뒤집기", "40. 3진법 뒤집기\40. 3진법 뒤집기.csproj", "{52328108-0ACD-4CC7-BDB9-369815DAB2DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41. 이상한 문자열 만들기", "41. 이상한 문자열 만들기\41. 이상한 문자열 만들기.csproj", "{8150B39E-6538-4695-8981-C641A54895EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "41. 이상한 문자열 만들기", "41. 이상한 문자열 만들기\41. 이상한 문자열 만들기.csproj", "{8150B39E-6538-4695-8981-C641A54895EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42. 삼총사", "42. 삼총사\42. 삼총사.csproj", "{12DAE891-80AC-4C6A-95B5-89C6C27E499F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "42. 삼총사", "42. 삼총사\42. 삼총사.csproj", "{12DAE891-80AC-4C6A-95B5-89C6C27E499F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "44. 최소 직사각형", "44. 최소 직사각형\44. 최소 직사각형.csproj", "{36E8A30C-79E7-4349-B74E-C7A10FC22B59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "44. 최소 직사각형", "44. 최소 직사각형\44. 최소 직사각형.csproj", "{36E8A30C-79E7-4349-B74E-C7A10FC22B59}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "43. 크기가 작은 부분 문자열", "43. 크기가 작은 부분 문자열\43. 크기가 작은 부분 문자열.csproj", "{96D317B9-5EF6-4522-A56D-DF4171DB3308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45. 시저 암호", "45. 시저 암호\45. 시저 암호.csproj", "{01C1961E-291D-4CB8-AF04-794FF1251B09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46. 숫자 문자열과 영단어", "46. 숫자 문자열과 영단어\46. 숫자 문자열과 영단어.csproj", "{42AF8CF8-668B-444C-A9F7-9839F0EC128D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47. 문자열 내 마음대로 정렬하기", "47. 문자열 내 마음대로 정렬하기\47. 문자열 내 마음대로 정렬하기.csproj", "{8FE459C7-852E-4766-BEBB-74E1DD86D0B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48. K번째수", "48. K번째수\48. K번째수.csproj", "{C9D4568B-5023-4EB8-95BC-0E739B234DD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -261,6 +269,22 @@ Global
 		{96D317B9-5EF6-4522-A56D-DF4171DB3308}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96D317B9-5EF6-4522-A56D-DF4171DB3308}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96D317B9-5EF6-4522-A56D-DF4171DB3308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C1961E-291D-4CB8-AF04-794FF1251B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C1961E-291D-4CB8-AF04-794FF1251B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C1961E-291D-4CB8-AF04-794FF1251B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C1961E-291D-4CB8-AF04-794FF1251B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42AF8CF8-668B-444C-A9F7-9839F0EC128D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42AF8CF8-668B-444C-A9F7-9839F0EC128D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42AF8CF8-668B-444C-A9F7-9839F0EC128D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42AF8CF8-668B-444C-A9F7-9839F0EC128D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE459C7-852E-4766-BEBB-74E1DD86D0B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE459C7-852E-4766-BEBB-74E1DD86D0B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE459C7-852E-4766-BEBB-74E1DD86D0B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE459C7-852E-4766-BEBB-74E1DD86D0B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9D4568B-5023-4EB8-95BC-0E739B234DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D4568B-5023-4EB8-95BC-0E739B234DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D4568B-5023-4EB8-95BC-0E739B234DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D4568B-5023-4EB8-95BC-0E739B234DD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
