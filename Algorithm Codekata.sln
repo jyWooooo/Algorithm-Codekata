@@ -95,15 +95,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "47. 문자열 내 마음대
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "48. K번째수", "48. K번째수\48. K번째수.csproj", "{C9D4568B-5023-4EB8-95BC-0E739B234DD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "49. 두 개 뽑아서 더하기", "49. 두 개 뽑아서 더하기\49. 두 개 뽑아서 더하기.csproj", "{3CF9EBDF-F99A-45D2-8A02-5F0D29B706FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "49. 두 개 뽑아서 더하기", "49. 두 개 뽑아서 더하기\49. 두 개 뽑아서 더하기.csproj", "{3CF9EBDF-F99A-45D2-8A02-5F0D29B706FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "50. 가장 가까운 같은 글자", "50. 가장 가까운 같은 글자\50. 가장 가까운 같은 글자.csproj", "{CC3680CE-7956-455F-A252-32ABD1F5204F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "50. 가장 가까운 같은 글자", "50. 가장 가까운 같은 글자\50. 가장 가까운 같은 글자.csproj", "{CC3680CE-7956-455F-A252-32ABD1F5204F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "51. 푸드 파이트 대회", "51. 푸드 파이트 대회\51. 푸드 파이트 대회.csproj", "{1F900D70-AA83-4832-BDC6-FA183424A074}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "51. 푸드 파이트 대회", "51. 푸드 파이트 대회\51. 푸드 파이트 대회.csproj", "{1F900D70-AA83-4832-BDC6-FA183424A074}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "52. 콜라 문제", "52. 콜라 문제\52. 콜라 문제.csproj", "{4328B997-999C-4E41-A4E7-9A57CD7E7D10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "52. 콜라 문제", "52. 콜라 문제\52. 콜라 문제.csproj", "{4328B997-999C-4E41-A4E7-9A57CD7E7D10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "53. 명예의 전당(1)", "53. 명예의 전당(1)\53. 명예의 전당(1).csproj", "{6054B110-A792-4569-81BE-3B7D90B6818B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "53. 명예의 전당(1)", "53. 명예의 전당(1)\53. 명예의 전당(1).csproj", "{6054B110-A792-4569-81BE-3B7D90B6818B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54. 2016년", "54. 2016년\54. 2016년.csproj", "{5C9787D3-F155-4A5D-A738-9DE05F07C2E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "55. 카드뭉치", "55. 카드뭉치\55. 카드뭉치.csproj", "{91B9E015-B51D-4674-9339-03AC97113385}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -315,6 +319,14 @@ Global
 		{6054B110-A792-4569-81BE-3B7D90B6818B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6054B110-A792-4569-81BE-3B7D90B6818B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6054B110-A792-4569-81BE-3B7D90B6818B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C9787D3-F155-4A5D-A738-9DE05F07C2E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9787D3-F155-4A5D-A738-9DE05F07C2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9787D3-F155-4A5D-A738-9DE05F07C2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9787D3-F155-4A5D-A738-9DE05F07C2E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91B9E015-B51D-4674-9339-03AC97113385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B9E015-B51D-4674-9339-03AC97113385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B9E015-B51D-4674-9339-03AC97113385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B9E015-B51D-4674-9339-03AC97113385}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
