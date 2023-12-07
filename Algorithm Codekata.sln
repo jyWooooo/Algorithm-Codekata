@@ -111,11 +111,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "55. 카드뭉치", "55. 카
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "56. 과일장수", "56. 과일장수\56. 과일장수.csproj", "{5B7FD27C-0033-4605-957C-F6C275959E5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "57. 모의고사", "57. 모의고사\57. 모의고사.csproj", "{DCECA434-AD3D-4AD5-865B-116FF3D3FBA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "57. 모의고사", "57. 모의고사\57. 모의고사.csproj", "{DCECA434-AD3D-4AD5-865B-116FF3D3FBA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "58. 소수 만들기", "58. 소수 만들기\58. 소수 만들기.csproj", "{6BBB4C47-9970-4ACA-84B7-8A9232C01CF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "58. 소수 만들기", "58. 소수 만들기\58. 소수 만들기.csproj", "{6BBB4C47-9970-4ACA-84B7-8A9232C01CF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "59. 덧칠하기", "59. 덧칠하기\59. 덧칠하기.csproj", "{2D13FDB2-5DAC-4CFC-9E9F-3A32E91DA9B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "59. 덧칠하기", "59. 덧칠하기\59. 덧칠하기.csproj", "{2D13FDB2-5DAC-4CFC-9E9F-3A32E91DA9B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60. 기사단원의 무기", "60. 기사단원의 무기\60. 기사단원의 무기.csproj", "{3D167B2B-6976-4B77-BD86-0082488F17E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -351,6 +353,10 @@ Global
 		{2D13FDB2-5DAC-4CFC-9E9F-3A32E91DA9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D13FDB2-5DAC-4CFC-9E9F-3A32E91DA9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D13FDB2-5DAC-4CFC-9E9F-3A32E91DA9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D167B2B-6976-4B77-BD86-0082488F17E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D167B2B-6976-4B77-BD86-0082488F17E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D167B2B-6976-4B77-BD86-0082488F17E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D167B2B-6976-4B77-BD86-0082488F17E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
