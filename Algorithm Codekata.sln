@@ -117,7 +117,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "58. 소수 만들기", "58.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "59. 덧칠하기", "59. 덧칠하기\59. 덧칠하기.csproj", "{2D13FDB2-5DAC-4CFC-9E9F-3A32E91DA9B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60. 기사단원의 무기", "60. 기사단원의 무기\60. 기사단원의 무기.csproj", "{3D167B2B-6976-4B77-BD86-0082488F17E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "60. 기사단원의 무기", "60. 기사단원의 무기\60. 기사단원의 무기.csproj", "{3D167B2B-6976-4B77-BD86-0082488F17E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "61. 로또의 최고 순위와 최저 순위", "61. 로또의 최고 순위와 최저 순위\61. 로또의 최고 순위와 최저 순위.csproj", "{348D6DE5-E1F6-41C1-8CCB-9B359C658C91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "62. 옹알이 (2)", "62. 옹알이 (2)\62. 옹알이 (2).csproj", "{FC1F1DFA-587F-4E9C-A593-1C835880FF8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "63. 숫자 짝꿍", "63. 숫자 짝꿍\63. 숫자 짝꿍.csproj", "{805F0561-E5A5-4068-8AFE-5BC3DAE01892}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -357,6 +363,18 @@ Global
 		{3D167B2B-6976-4B77-BD86-0082488F17E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D167B2B-6976-4B77-BD86-0082488F17E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D167B2B-6976-4B77-BD86-0082488F17E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{348D6DE5-E1F6-41C1-8CCB-9B359C658C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348D6DE5-E1F6-41C1-8CCB-9B359C658C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348D6DE5-E1F6-41C1-8CCB-9B359C658C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348D6DE5-E1F6-41C1-8CCB-9B359C658C91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC1F1DFA-587F-4E9C-A593-1C835880FF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1F1DFA-587F-4E9C-A593-1C835880FF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1F1DFA-587F-4E9C-A593-1C835880FF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1F1DFA-587F-4E9C-A593-1C835880FF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{805F0561-E5A5-4068-8AFE-5BC3DAE01892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805F0561-E5A5-4068-8AFE-5BC3DAE01892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805F0561-E5A5-4068-8AFE-5BC3DAE01892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805F0561-E5A5-4068-8AFE-5BC3DAE01892}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
