@@ -6,7 +6,7 @@ public class Solution
     {
         int answer = 0;
         int[] student = new int[n + 2];
-        student = student.Select(x => x = 1).ToArray();
+        for (int i = 0; i < student.Length; i++) student[i] = 1;
         foreach (var e in lost) student[e]--;
         foreach (var e in reserve) student[e]++;
         student[0] = -1;

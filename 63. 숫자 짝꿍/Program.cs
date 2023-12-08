@@ -9,8 +9,8 @@ public class Solution
         string answer = "";
         int[] XCounts = new int[10];
         int[] YCounts = new int[10];
-        X.Select(x => XCounts[x - '0']++).ToArray();
-        Y.Select(x => YCounts[x - '0']++).ToArray();
+        foreach (var e in X) XCounts[e - '0']++;
+        foreach (var e in Y) YCounts[e - '0']++;
         for (int i = 9; i >= 0; i--)
             answer += new string((char)(i + '0'), Math.Min(XCounts[i], YCounts[i]));
         if (answer.Length == 0)
