@@ -119,11 +119,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "59. 덧칠하기", "59. 덧
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "60. 기사단원의 무기", "60. 기사단원의 무기\60. 기사단원의 무기.csproj", "{3D167B2B-6976-4B77-BD86-0082488F17E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "61. 로또의 최고 순위와 최저 순위", "61. 로또의 최고 순위와 최저 순위\61. 로또의 최고 순위와 최저 순위.csproj", "{348D6DE5-E1F6-41C1-8CCB-9B359C658C91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "61. 로또의 최고 순위와 최저 순위", "61. 로또의 최고 순위와 최저 순위\61. 로또의 최고 순위와 최저 순위.csproj", "{348D6DE5-E1F6-41C1-8CCB-9B359C658C91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "62. 옹알이 (2)", "62. 옹알이 (2)\62. 옹알이 (2).csproj", "{FC1F1DFA-587F-4E9C-A593-1C835880FF8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "62. 옹알이 (2)", "62. 옹알이 (2)\62. 옹알이 (2).csproj", "{FC1F1DFA-587F-4E9C-A593-1C835880FF8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "63. 숫자 짝꿍", "63. 숫자 짝꿍\63. 숫자 짝꿍.csproj", "{805F0561-E5A5-4068-8AFE-5BC3DAE01892}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "63. 숫자 짝꿍", "63. 숫자 짝꿍\63. 숫자 짝꿍.csproj", "{805F0561-E5A5-4068-8AFE-5BC3DAE01892}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "64. 체육복", "64. 체육복\64. 체육복.csproj", "{2614103C-C99D-44A7-ADF4-E640B36B5291}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -375,6 +377,10 @@ Global
 		{805F0561-E5A5-4068-8AFE-5BC3DAE01892}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{805F0561-E5A5-4068-8AFE-5BC3DAE01892}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{805F0561-E5A5-4068-8AFE-5BC3DAE01892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2614103C-C99D-44A7-ADF4-E640B36B5291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2614103C-C99D-44A7-ADF4-E640B36B5291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2614103C-C99D-44A7-ADF4-E640B36B5291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2614103C-C99D-44A7-ADF4-E640B36B5291}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
