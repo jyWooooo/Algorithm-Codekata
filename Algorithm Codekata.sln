@@ -125,7 +125,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "62. 옹알이 (2)", "62. �
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "63. 숫자 짝꿍", "63. 숫자 짝꿍\63. 숫자 짝꿍.csproj", "{805F0561-E5A5-4068-8AFE-5BC3DAE01892}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "64. 체육복", "64. 체육복\64. 체육복.csproj", "{2614103C-C99D-44A7-ADF4-E640B36B5291}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "64. 체육복", "64. 체육복\64. 체육복.csproj", "{2614103C-C99D-44A7-ADF4-E640B36B5291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "65. 문자열 나누기", "65. 문자열 나누기\65. 문자열 나누기.csproj", "{BE9E7160-E1CC-4753-924C-F5D99179C30E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "66. 대충 만든 자판", "66. 대충 만든 자판\66. 대충 만든 자판.csproj", "{1C7E6351-07FD-41CB-8A30-30B18666D11E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -381,6 +385,14 @@ Global
 		{2614103C-C99D-44A7-ADF4-E640B36B5291}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2614103C-C99D-44A7-ADF4-E640B36B5291}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2614103C-C99D-44A7-ADF4-E640B36B5291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE9E7160-E1CC-4753-924C-F5D99179C30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9E7160-E1CC-4753-924C-F5D99179C30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9E7160-E1CC-4753-924C-F5D99179C30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9E7160-E1CC-4753-924C-F5D99179C30E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7E6351-07FD-41CB-8A30-30B18666D11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7E6351-07FD-41CB-8A30-30B18666D11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7E6351-07FD-41CB-8A30-30B18666D11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7E6351-07FD-41CB-8A30-30B18666D11E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
