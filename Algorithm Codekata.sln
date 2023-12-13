@@ -127,9 +127,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "63. 숫자 짝꿍", "63. �
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "64. 체육복", "64. 체육복\64. 체육복.csproj", "{2614103C-C99D-44A7-ADF4-E640B36B5291}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "65. 문자열 나누기", "65. 문자열 나누기\65. 문자열 나누기.csproj", "{BE9E7160-E1CC-4753-924C-F5D99179C30E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "65. 문자열 나누기", "65. 문자열 나누기\65. 문자열 나누기.csproj", "{BE9E7160-E1CC-4753-924C-F5D99179C30E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "66. 대충 만든 자판", "66. 대충 만든 자판\66. 대충 만든 자판.csproj", "{1C7E6351-07FD-41CB-8A30-30B18666D11E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "66. 대충 만든 자판", "66. 대충 만든 자판\66. 대충 만든 자판.csproj", "{1C7E6351-07FD-41CB-8A30-30B18666D11E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "67. 둘 만의 암호", "67. 둘 만의 암호\67. 둘 만의 암호.csproj", "{8082D52A-8B27-4764-ABDB-A289080966FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -393,6 +395,10 @@ Global
 		{1C7E6351-07FD-41CB-8A30-30B18666D11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C7E6351-07FD-41CB-8A30-30B18666D11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C7E6351-07FD-41CB-8A30-30B18666D11E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8082D52A-8B27-4764-ABDB-A289080966FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8082D52A-8B27-4764-ABDB-A289080966FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8082D52A-8B27-4764-ABDB-A289080966FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8082D52A-8B27-4764-ABDB-A289080966FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
