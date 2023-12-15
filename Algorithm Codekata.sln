@@ -133,7 +133,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "66. 대충 만든 자판", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "67. 둘 만의 암호", "67. 둘 만의 암호\67. 둘 만의 암호.csproj", "{8082D52A-8B27-4764-ABDB-A289080966FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "68. 햄버거 만들기", "68. 햄버거 만들기\68. 햄버거 만들기.csproj", "{21561D1A-3E73-4378-BCA5-79A3691EBA84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "68. 햄버거 만들기", "68. 햄버거 만들기\68. 햄버거 만들기.csproj", "{21561D1A-3E73-4378-BCA5-79A3691EBA84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "69. 성격 유형 검사하기", "69. 성격 유형 검사하기\69. 성격 유형 검사하기.csproj", "{50519C80-1CF3-47B2-A10D-F15AF683DC12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70. 바탕화면 정리", "70. 바탕화면 정리\70. 바탕화면 정리.csproj", "{2327A866-A1D6-434F-975D-670557718026}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -405,6 +409,14 @@ Global
 		{21561D1A-3E73-4378-BCA5-79A3691EBA84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21561D1A-3E73-4378-BCA5-79A3691EBA84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21561D1A-3E73-4378-BCA5-79A3691EBA84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50519C80-1CF3-47B2-A10D-F15AF683DC12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50519C80-1CF3-47B2-A10D-F15AF683DC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50519C80-1CF3-47B2-A10D-F15AF683DC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50519C80-1CF3-47B2-A10D-F15AF683DC12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2327A866-A1D6-434F-975D-670557718026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2327A866-A1D6-434F-975D-670557718026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2327A866-A1D6-434F-975D-670557718026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2327A866-A1D6-434F-975D-670557718026}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
