@@ -139,7 +139,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "69. 성격 유형 검사하
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "70. 바탕화면 정리", "70. 바탕화면 정리\70. 바탕화면 정리.csproj", "{2327A866-A1D6-434F-975D-670557718026}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "71. 개인정보 수집 유효기간", "71. 개인정보 수집 유효기간\71. 개인정보 수집 유효기간.csproj", "{1F7B7B3B-B372-42A5-9A5B-B9A40AB60AA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "71. 개인정보 수집 유효기간", "71. 개인정보 수집 유효기간\71. 개인정보 수집 유효기간.csproj", "{1F7B7B3B-B372-42A5-9A5B-B9A40AB60AA1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "72. 달리기 경주", "72. 달리기 경주\72. 달리기 경주.csproj", "{4765852A-6046-49FD-B8FA-CA87BA75283D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "73. 공원산책", "73. 공원산책\73. 공원산책.csproj", "{40838CFE-D828-43D8-8CEF-5A7AE9D32768}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -423,6 +427,14 @@ Global
 		{1F7B7B3B-B372-42A5-9A5B-B9A40AB60AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F7B7B3B-B372-42A5-9A5B-B9A40AB60AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F7B7B3B-B372-42A5-9A5B-B9A40AB60AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4765852A-6046-49FD-B8FA-CA87BA75283D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4765852A-6046-49FD-B8FA-CA87BA75283D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4765852A-6046-49FD-B8FA-CA87BA75283D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4765852A-6046-49FD-B8FA-CA87BA75283D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40838CFE-D828-43D8-8CEF-5A7AE9D32768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40838CFE-D828-43D8-8CEF-5A7AE9D32768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40838CFE-D828-43D8-8CEF-5A7AE9D32768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40838CFE-D828-43D8-8CEF-5A7AE9D32768}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
