@@ -143,7 +143,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "71. 개인정보 수집 유
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "72. 달리기 경주", "72. 달리기 경주\72. 달리기 경주.csproj", "{4765852A-6046-49FD-B8FA-CA87BA75283D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "73. 공원산책", "73. 공원산책\73. 공원산책.csproj", "{40838CFE-D828-43D8-8CEF-5A7AE9D32768}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "73. 공원산책", "73. 공원산책\73. 공원산책.csproj", "{40838CFE-D828-43D8-8CEF-5A7AE9D32768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "74. 신고 결과 받기", "74. 신고 결과 받기\74. 신고 결과 받기.csproj", "{BC4E9344-A472-4BAB-A1CE-B308E8452B4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -435,6 +437,10 @@ Global
 		{40838CFE-D828-43D8-8CEF-5A7AE9D32768}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40838CFE-D828-43D8-8CEF-5A7AE9D32768}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40838CFE-D828-43D8-8CEF-5A7AE9D32768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC4E9344-A472-4BAB-A1CE-B308E8452B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4E9344-A472-4BAB-A1CE-B308E8452B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4E9344-A472-4BAB-A1CE-B308E8452B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4E9344-A472-4BAB-A1CE-B308E8452B4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
