@@ -145,7 +145,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "72. 달리기 경주", "72.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "73. 공원산책", "73. 공원산책\73. 공원산책.csproj", "{40838CFE-D828-43D8-8CEF-5A7AE9D32768}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "74. 신고 결과 받기", "74. 신고 결과 받기\74. 신고 결과 받기.csproj", "{BC4E9344-A472-4BAB-A1CE-B308E8452B4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "74. 신고 결과 받기", "74. 신고 결과 받기\74. 신고 결과 받기.csproj", "{BC4E9344-A472-4BAB-A1CE-B308E8452B4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "75. 최대값과 최소값", "75. 최대값과 최소값\75. 최대값과 최소값.csproj", "{8F439021-A619-436B-845E-2A39EF113FF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -441,6 +443,10 @@ Global
 		{BC4E9344-A472-4BAB-A1CE-B308E8452B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC4E9344-A472-4BAB-A1CE-B308E8452B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC4E9344-A472-4BAB-A1CE-B308E8452B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F439021-A619-436B-845E-2A39EF113FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F439021-A619-436B-845E-2A39EF113FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F439021-A619-436B-845E-2A39EF113FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F439021-A619-436B-845E-2A39EF113FF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
