@@ -147,7 +147,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "73. 공원산책", "73. 공
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "74. 신고 결과 받기", "74. 신고 결과 받기\74. 신고 결과 받기.csproj", "{BC4E9344-A472-4BAB-A1CE-B308E8452B4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "75. 최대값과 최소값", "75. 최대값과 최소값\75. 최대값과 최소값.csproj", "{8F439021-A619-436B-845E-2A39EF113FF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "75. 최대값과 최소값", "75. 최대값과 최소값\75. 최대값과 최소값.csproj", "{8F439021-A619-436B-845E-2A39EF113FF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "76. JadenCase 문자열 만들기", "76. JadenCase 문자열 만들기\76. JadenCase 문자열 만들기.csproj", "{182A5C37-B3C4-437D-805A-F5148E0B4D5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "77. 이진 변환 반복하기", "77. 이진 변환 반복하기\77. 이진 변환 반복하기.csproj", "{4CC24EDB-1078-4667-9BDC-C5949B9BCA35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "78. 피보나치 수", "78. 피보나치 수\78. 피보나치 수.csproj", "{764E86DC-8EDB-4DCE-9BA4-7507C716269C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "79. 카펫", "79. 카펫\79. 카펫.csproj", "{8D626A99-954F-4E22-8933-020C9EF08E82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -447,6 +455,22 @@ Global
 		{8F439021-A619-436B-845E-2A39EF113FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F439021-A619-436B-845E-2A39EF113FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F439021-A619-436B-845E-2A39EF113FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{182A5C37-B3C4-437D-805A-F5148E0B4D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182A5C37-B3C4-437D-805A-F5148E0B4D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182A5C37-B3C4-437D-805A-F5148E0B4D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182A5C37-B3C4-437D-805A-F5148E0B4D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CC24EDB-1078-4667-9BDC-C5949B9BCA35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC24EDB-1078-4667-9BDC-C5949B9BCA35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC24EDB-1078-4667-9BDC-C5949B9BCA35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC24EDB-1078-4667-9BDC-C5949B9BCA35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{764E86DC-8EDB-4DCE-9BA4-7507C716269C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764E86DC-8EDB-4DCE-9BA4-7507C716269C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764E86DC-8EDB-4DCE-9BA4-7507C716269C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764E86DC-8EDB-4DCE-9BA4-7507C716269C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D626A99-954F-4E22-8933-020C9EF08E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D626A99-954F-4E22-8933-020C9EF08E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D626A99-954F-4E22-8933-020C9EF08E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D626A99-954F-4E22-8933-020C9EF08E82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
