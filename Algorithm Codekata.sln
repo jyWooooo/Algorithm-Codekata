@@ -163,9 +163,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "81. N개의 최소 공배�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "82. 멀리 뛰기", "82. 멀리 뛰기\82. 멀리 뛰기.csproj", "{6927B07E-1E3C-4F3C-9886-9E1AA068AC85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "83. 귤 고르기", "83. 귤 고르기\83. 귤 고르기.csproj", "{FF5A0A0F-932D-4AD5-ABB1-132C400DD7C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "83. 귤 고르기", "83. 귤 고르기\83. 귤 고르기.csproj", "{FF5A0A0F-932D-4AD5-ABB1-132C400DD7C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "84. 괄호 회전하기", "84. 괄호 회전하기\84. 괄호 회전하기.csproj", "{92604FDE-661F-456F-B6BF-B668DBF325DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "84. 괄호 회전하기", "84. 괄호 회전하기\84. 괄호 회전하기.csproj", "{92604FDE-661F-456F-B6BF-B668DBF325DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "85. 연속 부분 수열 합의 개수", "85. 연속 부분 수열 합의 개수\85. 연속 부분 수열 합의 개수.csproj", "{C1CE30A0-AD1E-4412-8EA5-B1BF30619F1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -501,6 +503,10 @@ Global
 		{92604FDE-661F-456F-B6BF-B668DBF325DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92604FDE-661F-456F-B6BF-B668DBF325DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92604FDE-661F-456F-B6BF-B668DBF325DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1CE30A0-AD1E-4412-8EA5-B1BF30619F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1CE30A0-AD1E-4412-8EA5-B1BF30619F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1CE30A0-AD1E-4412-8EA5-B1BF30619F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1CE30A0-AD1E-4412-8EA5-B1BF30619F1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
