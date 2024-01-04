@@ -169,9 +169,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "84. 괄호 회전하기", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "85. 연속 부분 수열 합의 개수", "85. 연속 부분 수열 합의 개수\85. 연속 부분 수열 합의 개수.csproj", "{C1CE30A0-AD1E-4412-8EA5-B1BF30619F1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "86. H-Index", "86. H-Index\86. H-Index.csproj", "{A1D12EB2-6B4C-456C-A429-C220FF3E2247}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "86. H-Index", "86. H-Index\86. H-Index.csproj", "{A1D12EB2-6B4C-456C-A429-C220FF3E2247}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "87. n^2 배열 자르기", "87. n^2 배열 자르기\87. n^2 배열 자르기.csproj", "{D4024B06-3356-4AD5-A88E-7BFEE1C45A02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "87. n^2 배열 자르기", "87. n^2 배열 자르기\87. n^2 배열 자르기.csproj", "{D4024B06-3356-4AD5-A88E-7BFEE1C45A02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88. 행렬의 곱셈", "88. 행렬의 곱셈\88. 행렬의 곱셈.csproj", "{455E7A28-B230-4181-9113-434493805658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "89. 할인행사", "89. 할인행사\89. 할인행사.csproj", "{3C3CEF46-88D4-4C8F-B54D-3493EF5660C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -519,6 +523,14 @@ Global
 		{D4024B06-3356-4AD5-A88E-7BFEE1C45A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4024B06-3356-4AD5-A88E-7BFEE1C45A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4024B06-3356-4AD5-A88E-7BFEE1C45A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{455E7A28-B230-4181-9113-434493805658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455E7A28-B230-4181-9113-434493805658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455E7A28-B230-4181-9113-434493805658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455E7A28-B230-4181-9113-434493805658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C3CEF46-88D4-4C8F-B54D-3493EF5660C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C3CEF46-88D4-4C8F-B54D-3493EF5660C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C3CEF46-88D4-4C8F-B54D-3493EF5660C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C3CEF46-88D4-4C8F-B54D-3493EF5660C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
