@@ -185,6 +185,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31. 수박수박수박수�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32. 내적", "32. 내적\32. 내적.csproj", "{423B8BF4-A4D8-426E-B6C6-B3000D6542E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "92. 프로세스", "92. 프로세스\92. 프로세스.csproj", "{F7D6DE44-7731-489A-A61B-7F158F307912}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -555,6 +557,10 @@ Global
 		{423B8BF4-A4D8-426E-B6C6-B3000D6542E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{423B8BF4-A4D8-426E-B6C6-B3000D6542E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{423B8BF4-A4D8-426E-B6C6-B3000D6542E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7D6DE44-7731-489A-A61B-7F158F307912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D6DE44-7731-489A-A61B-7F158F307912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D6DE44-7731-489A-A61B-7F158F307912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D6DE44-7731-489A-A61B-7F158F307912}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
