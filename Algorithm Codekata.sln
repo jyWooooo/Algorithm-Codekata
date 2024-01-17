@@ -187,9 +187,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32. 내적", "32. 내적\32
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "92. 프로세스", "92. 프로세스\92. 프로세스.csproj", "{F7D6DE44-7731-489A-A61B-7F158F307912}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "93. 피로도", "93. 피로도\93. 피로도.csproj", "{2428566D-DB8B-419C-9817-749C7E1309B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "93. 피로도", "93. 피로도\93. 피로도.csproj", "{2428566D-DB8B-419C-9817-749C7E1309B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "94. 타겟 넘버", "94. 타겟 넘버\94. 타겟 넘버.csproj", "{643CB810-2818-4F62-AB71-F2A5DF935FCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "94. 타겟 넘버", "94. 타겟 넘버\94. 타겟 넘버.csproj", "{643CB810-2818-4F62-AB71-F2A5DF935FCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "95, k 진수에서 소수 개수 구하기", "95, k 진수에서 소수 개수 구하기\95, k 진수에서 소수 개수 구하기.csproj", "{9A24073B-7AEE-48AB-A2CA-14D201CBA0E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -573,6 +575,10 @@ Global
 		{643CB810-2818-4F62-AB71-F2A5DF935FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{643CB810-2818-4F62-AB71-F2A5DF935FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{643CB810-2818-4F62-AB71-F2A5DF935FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A24073B-7AEE-48AB-A2CA-14D201CBA0E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A24073B-7AEE-48AB-A2CA-14D201CBA0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A24073B-7AEE-48AB-A2CA-14D201CBA0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A24073B-7AEE-48AB-A2CA-14D201CBA0E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
