@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>_99._롤_케이크_자르기</RootNamespace>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
