@@ -199,7 +199,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "97. 모음 사전", "97. �
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "98. 뒤에 있는 큰 수 찾기", "98. 뒤에 있는 큰 수 찾기\98. 뒤에 있는 큰 수 찾기.csproj", "{ADD12A47-5052-4D9F-AD45-B2A17333E753}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "99. 롤 케이크 자르기", "99. 롤 케이크 자르기\99. 롤 케이크 자르기.csproj", "{2AB404D8-6D13-42B1-8271-15083C1C5341}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "99. 롤 케이크 자르기", "99. 롤 케이크 자르기\99. 롤 케이크 자르기.csproj", "{2AB404D8-6D13-42B1-8271-15083C1C5341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100. 숫자 변환하기", "100. 숫자 변환하기\100. 숫자 변환하기.csproj", "{5990300E-0EB1-4B86-BD7F-F83002761864}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -603,6 +605,10 @@ Global
 		{2AB404D8-6D13-42B1-8271-15083C1C5341}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AB404D8-6D13-42B1-8271-15083C1C5341}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AB404D8-6D13-42B1-8271-15083C1C5341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5990300E-0EB1-4B86-BD7F-F83002761864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5990300E-0EB1-4B86-BD7F-F83002761864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5990300E-0EB1-4B86-BD7F-F83002761864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5990300E-0EB1-4B86-BD7F-F83002761864}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
